@@ -1,0 +1,2 @@
+# hugotheme
+theme1
